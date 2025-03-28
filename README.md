@@ -1,4 +1,4 @@
-# Under the Hood
+# Docker Under the Hood
 
 Containers are isolated processes that run on a virtual machine bundled with Docker Desktop.
 
